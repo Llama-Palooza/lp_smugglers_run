@@ -1,0 +1,1 @@
+Install documentation: https://dream-scripts.gitbook.io/docs/
